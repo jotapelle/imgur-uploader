@@ -1,0 +1,25 @@
+.reset-height {
+    height: initial !important;
+}
+
+.teal {
+    color: #20c997;
+}
+
+.teal:hover {
+    color: #1aa179
+}
+
+.btn-teal {
+    background-color: #20c997 !important;
+    border-color: #20c997 !important;
+}
+
+.btn-teal:hover {
+    background-color: #1aa179 !important;
+    border-color: #1aa179 !important;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
